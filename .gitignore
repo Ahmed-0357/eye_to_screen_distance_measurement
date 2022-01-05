@@ -1,0 +1,5 @@
+*env*/**
+.idea*/**
+.vscode*/**
+*__pycache__*
+*to_exe*/**
