@@ -8,7 +8,7 @@
 
 - **[Ergonomics tip:](https://www.ergotron.com/zh-sg/ergonomics/ergonomic-equation)** laptop screen should be positioned at least **20 inches (51 cm)** away from your eyes.
 
-![GIF](demo\video-1.gif)
+![GIF](./demo/video-1.gif)
 
 ---
 
