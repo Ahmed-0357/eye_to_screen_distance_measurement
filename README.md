@@ -1,4 +1,4 @@
-<h1 style='text-align: center;'> <b> Eye to Screen Distance Measurement With Computer Vision 👀💻 </b></h1>
+<h1 align="center"> <b> Eye to Screen Distance Measurement With Computer Vision 👀💻 </b></h1>
 
 - This project is to calculate the distance between your eyes and laptop screen using the webcam.
 
